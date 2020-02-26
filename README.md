@@ -1,5 +1,5 @@
 # examination_system-
-这是个基于SSM+Bootstrap的教务查询系统，是一个简单的教务查询系统.
+这是个基于SSM+Bootstrap的教务查询系统，是一个简单的教务查询系统
 
 做了关于数据库的增删改查练习。
 用来熟悉SSM的整合开发。
